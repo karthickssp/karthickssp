@@ -6,25 +6,12 @@
 
 </div>
 
-## Projects 💻
-
-<div align="center">
-  
-| Title | 
-|:-----:|
-| Bookopia |
-| Perfect Garden |
-| E Library |
-| React Basic Projects |
-| Basic Testing |
-
-</div>
 
 ## My Skills ♾️
 
 <div align="center">
-<details>
-<summary> SKILLS(click to expand) </summary>
+<details open>
+<summary> SKILLS(click to close) </summary>
 
 | Known | &ensp; &ensp; &ensp; &ensp; &ensp;   Skills &ensp; &ensp; &ensp; &ensp; &ensp; |
 |:-----:|:---------:|
@@ -44,11 +31,57 @@
 </details>
 </div>
 
+## Projects 💻
+
+**Prefect Garden**
+
+- A home gardening web application is a digital platform designed to offer resources, tools, and guidance for individuals keen on cultivating gardens at home. It provides a comprehensive set of features and functionalities to assist users in planning, maintaining, and optimizing their home gardens.
+
+- The architecture of the Home Gardening Application involves using React for the frontend, Spring Boot Microservices for the backend, and MySQL for the database. This tech stack ensures a modern, scalable, and efficient solution for users.
+
+- To ensure secure access and personalized experiences, the application implements user authentication using JWT (JSON Web Token). JWT is a widely adopted industry standard for token-based authentication, providing a secure and efficient way to transmit information between parties.
+
+- Responsive Design, Intuitive User Interface, Gardening Resources, Real-time Notifications, Integration with External APIs, Feedback Mechanism.
+<br/>
+
+> **Git Repository :**
+```ruby
+   https://github.com/karthickssp/Fullstack-PrefectGarden
+```
+  
+**Bookopia**
+- Manage Book Details with crud operations
+- Simple User Interface
+- Personalized Reading Experience
+- User-Generated Content
+- Seamless Accessibility
+- Author Spotlights
+<br/>
+
+> **Git Repository :**
+```ruby
+   https://github.com/karthickssp/Fullstack-Bookopia
+```
+  
+**Basic React Profects**
+- Calculator
+- Clock
+- Drums
+- Markdown Previewer
+- Random Quotes Generator
+<br/>
+
+> **Git Repository :**
+```ruby
+   https://github.com/karthickssp/React-Projects
+```
+
+
 ## Connect with me 📱
 
 <div align="center">
   <a href="https://X.com/karthick_ssp" target="_blank" style="margin-right: 10px;">
-  <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" alt="X logo" />
+  <img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="50" alt="X logo" />
 </a> &nbsp; &nbsp;
 
 <a href="https://www.linkedin.com/in/karthickssp-90805v96570/" target="_blank" style="margin-right: 10px;">
@@ -56,7 +89,7 @@
 </a> &nbsp; &nbsp;
 
 <a href="https://instagram.com/karthick_ssp" target="_blank">
-  <img src="https://gmabhishek.github.io/Image-hoster/Images/Instagram.png" height="50" alt="Instagram" />
+  <img src="https://johnhoward.on.ca/peterborough/wp-content/uploads/sites/12/2021/03/instagram-logo-svg-vector-for-print.svg" height="50" alt="Instagram" />
 </a>
 
 </div>
