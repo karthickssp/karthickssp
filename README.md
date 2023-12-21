@@ -63,7 +63,7 @@
    https://github.com/karthickssp/Fullstack-Bookopia
 ```
   
-**Basic React Profects**
+**Basic React Projects**
 - Calculator
 - Clock
 - Drums
